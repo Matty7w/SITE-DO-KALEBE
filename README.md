@@ -10,5 +10,6 @@ Este é o repositório oficial do site **Coaching Kalebie**, focado em ajudar jo
 - **FontAwesome** (Ícones)
 - **Swup** (Transições de Página)
 
-Desenvolvido com 💙 por [Seu Nome/Kalebie]
+Desenvolvido com 💙 por [Sakamoto47 (Matthy7w)]
+
 
